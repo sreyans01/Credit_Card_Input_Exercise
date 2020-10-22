@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Credit Card Input Exercise</string>
+    <string name="fill_fields">Please fill all the fields to continue</string>
+    <string name="log_validcard">Hi there. Card is valid.</string>
+    <string name="error_invalid_security_code">Invalid Security Code</string>
+    <string name="error_invalid_card_number">Invalid Card Number</string>
+    <string name="card_number">Card Number</string>
+    <string name="mm_yy">MM/YY</string>
+    <string name="security_code">Security Code</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="submit_payment">SUBMIT PAYMENT</string>
+</resources>
