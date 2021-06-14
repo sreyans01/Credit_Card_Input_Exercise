@@ -5,7 +5,6 @@ A simple credit card input application to check whether the specified details ar
 APK File link : https://drive.google.com/file/d/1i76gF7FeyJUMVL7YoT4C6usqQ1oR_DXr/view?usp=sharing
 
 # Task
-Android Credit Card Input
 Create an Android "screen" that would allow a user to enter and submit the following data from an American Express, Discover, MasterCard, or Visa credit card:
 
 Credit card number
